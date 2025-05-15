@@ -13,7 +13,7 @@ const Hero = () => (
         Python, enabling seamless backend integration and scripting support.
       </p>
       <a
-        href="/assets/Guddeti Uday Kumar_resume(cv).pdf"
+        href="/Guddeti Uday Kumar_resume(cv).pdf"
         download
         className="btn btn-primary mt-3"
       >
